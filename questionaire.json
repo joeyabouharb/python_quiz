@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "number": 1, 
+      "question": "Which TV character said, “Live long and prosper”? ",
+     "options": ["1) Spock ", "2) Alf ", "3) Steve Urkel ", "4) Gary Coleman "],
+      "answer": 1
+    },
+    {
+      "number": 2, 
+      "question": "Depeche Mode, released their seminal album, Violator in what year? ",
+     "options": ["1) 1991 ", "2) 1993 ", "3) 1991 ", "4) 1990 "],
+      "answer": 4
+    },
+    {
+      "number": 3, 
+      "question":  "In Lord of the rings, How many Rings of Power were forged in the second age? ",
+     "options":  ["1) 1", "2) 19", "3) 20", "4) 13"],
+      "answer": 3
+    },
+    {
+      "number": 4, 
+      "question": "Which of the following bands was NOT one of the \"Big Four of Grunge\" in the 1990s?",
+     "options": ["1) Pearl Jam", "2) Nirvana", "3) Soundgarden", "4) Jane's Addiction"],
+      "answer": 4
+    },
+    {
+      "number": 5, 
+      "question": "What was the name of the episode where the infamous 'red wedding' scene occured in game of thrones ",
+     "options":  ["1) The Rains of Castamere ", "2) The Prince of Winterfell", "3) What Is Dead May Never Die ", "4) None of the above"],
+      "answer": 1
+    },
+    {
+      "number": 6, 
+      "question":  "which of the folling musicians are named as one of the 7 Koopalings in the Mario games? ",
+     "options": ["1) Beethoven", "2) David Bowie", "3) Michael Jackson", "4) Tom Petty"],
+      "answer": 1
+    },
+    {
+      "number": 7, 
+      "question":  "In Fahrenheit, at what temperature does water freeze?",
+     "options": ["1) 30", "2) 32", "3) 35", "4) 36"],
+      "answer": 2
+    },
+    {
+      "number": 8, 
+      "question": "In which city is Jim Morrison buried?",
+     "options": ["1) London", "2) Berlin", "3) Paris", "4) Vancouver"],
+      "answer": 3
+    },
+    {
+      "number": 9, 
+      "question": "How high is Uluru in metres?",
+     "options": ["1) 347", "2) 348", "3) 349", "4) 346"],
+      "answer": 2
+    },
+    {
+      "number": 10, 
+      "question": "Who said, \"It was a wise man who invented beer\"?",
+     "options": ["1) pyrrho", "2) diogenes", "3) aristotle", "4) plato"],
+      "answer": 4
+    }
+  ]
+}

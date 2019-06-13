@@ -59,7 +59,7 @@ def app():
 
     if result == False:
       print("\nWrong Answer!")
-    else:
+    elif result == True:
       wins += 1
       print("\nCorrect!")
 

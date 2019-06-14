@@ -58,10 +58,13 @@ def app():
     result = test_answer(question['answer'], ans)
 
     if result == False:
-      print("\nWrong Answer!")
+      print("\n\U0000274C Wrong Answer!")
     elif result == True:
       wins += 1
-      print("\nCorrect!")
+      print("\U00002728 Correct! ")
+      input('Enter to go to next question... ')
+    import os
+    os.system('cls' if os.name == 'nt' else 'clear')
 
   print(f"final score: {wins} \nYour Prize")
   print(prizes.contestant_prize(wins))
